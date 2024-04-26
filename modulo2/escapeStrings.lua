@@ -1,0 +1,1 @@
+print("Nome: Joao\nIdade: 20")
